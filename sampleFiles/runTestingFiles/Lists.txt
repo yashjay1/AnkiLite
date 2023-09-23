@@ -1,0 +1,3 @@
+This files contains some [[Notes on Lists]].
+# ArrayLists
+[[Arraylists are similar to Arrays, but are mutable]] i.e. they are not fixed in size.
